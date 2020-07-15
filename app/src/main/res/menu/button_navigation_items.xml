@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/i1"
+        android:icon="@drawable/ic_baseline_camera_24"
+        android:title="Camera"
+        app:showAsAction="withText" />
+
+    <item
+        android:id="@+id/i2"
+        android:icon="@drawable/ic_baseline_bubble_chart_24"
+        android:title="Assistant"
+        app:showAsAction="withText" />
+    <item
+        android:id="@+id/i3"
+        android:icon="@drawable/ic_baseline_language_24"
+        android:title="Web"
+        app:showAsAction="withText" />
+    <item
+        android:id="@+id/i4"
+        android:icon="@drawable/ic_baseline_account_balance_wallet_24"
+        android:title="Wallet"
+        app:showAsAction="withText" />
+    <item
+        android:id="@+id/i5"
+        android:icon="@drawable/ic_baseline_account_circle_24"
+        android:title="User"
+        app:showAsAction="withText" />
+</menu>
